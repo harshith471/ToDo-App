@@ -1,0 +1,57 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.container{
+    background: #fff;
+    width: 50vh;
+    height: 60vh;
+    border-radius: 20px;
+    justify-content: center;
+    padding: 2rem;
+    
+}
+
+.card{
+    display: flex;  
+
+}
+.icon{
+    height: 6vh;
+}
+
+.card2{
+    margin-top: 1.5rem;
+    display: flex;
+    align-content: center;
+    border-radius: 30px;
+}
+.input{
+    background: transparent;
+    border: 0;
+    outline: none;
+    flex: 1 1 0%;
+    height: 3.5rem;
+    padding-left: 1.5rem;
+    padding-right: 0.5rem;
+}
+
+.button{
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 100;
+
+}
+
+.card3{
+    margin-top: 1.5rem;
+}
