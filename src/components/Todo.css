@@ -54,4 +54,8 @@ h1{
 
 .card3{
     margin-top: 1.5rem;
+    height: 38vh;
+    padding-right: 10PX;
+    overflow: auto;
 }
+
